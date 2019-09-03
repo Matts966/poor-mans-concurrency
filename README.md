@@ -7,7 +7,7 @@ $ git clone https://github.com/Matts966/poor-mans-concurrency.git
 $ cd poor-mans-concurrency && make run
 ```
 
-Note that this program prints alphabet infinitely.
+Note that this program prints alphabet infinitely. You should be ready to push <C-c>
 
 ## Referrenc
 
