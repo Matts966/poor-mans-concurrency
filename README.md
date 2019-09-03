@@ -4,7 +4,7 @@
 
 ```
 $ git clone https://github.com/Matts966/poor-mans-concurrency.git
-$ make run
+$ cd poor-mans-concurrency && make run
 ```
 
 Note that this program prints alphabet infinitely.
