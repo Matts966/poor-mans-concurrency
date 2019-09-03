@@ -9,7 +9,7 @@ $ cd poor-mans-concurrency && make run
 
 Note that this program prints alphabet infinitely. You should be ready to push Ctrl-c.
 
-## Referrenc
+## Referrence
 
 - https://www.cambridge.org/core/journals/journal-of-functional-programming/article/poor-mans-concurrency-monad/A369E310ADAE4455020C918FC1D47958
 - https://dl.acm.org/citation.cfm?id=968596
