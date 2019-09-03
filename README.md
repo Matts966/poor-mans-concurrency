@@ -1,6 +1,6 @@
 # Poor man's concurrency
 
-## Play with Concurrency monad
+## Play with Concurrency Monad
 
 ```
 $ git clone https://github.com/Matts966/poor-mans-concurrency.git
