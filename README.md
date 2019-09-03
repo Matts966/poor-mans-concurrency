@@ -11,6 +11,8 @@ Note that this program prints `fish` and `cat` concurrently and infinitely. You 
 
 ## Reference
 
+This program is intended to make the haskell code in the paper (links but they are the same) below easy to run.
+
 - https://www.cambridge.org/core/journals/journal-of-functional-programming/article/poor-mans-concurrency-monad/A369E310ADAE4455020C918FC1D47958
 - https://dl.acm.org/citation.cfm?id=968596
 - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.39.8039&rep=rep1&type=pdf
