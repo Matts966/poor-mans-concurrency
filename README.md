@@ -4,7 +4,7 @@
 
 ```
 $ git clone https://github.com/Matts966/poor-mans-concurrency.git
-$ cd poor-mans-concurrency && make run
+$ cd poor-mans-concurrency && make
 ```
 
 Note that this program prints `fish` and `cat` concurrently and infinitely. You should be ready to push Ctrl-c.
